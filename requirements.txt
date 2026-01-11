@@ -1,0 +1,22 @@
+# Core Dependencies
+fastapi==0.104.1
+uvicorn==0.24.0
+streamlit==1.29.0
+python-dotenv==1.0.0
+
+# OpenAI
+openai==1.6.1
+
+# Vector Database & Embeddings
+chromadb==0.4.18
+sentence-transformers==2.2.2
+
+# Academic APIs
+arxiv==2.1.0
+requests==2.31.0
+
+# PDF Generation
+reportlab==4.0.7
+
+# Data Processing
+numpy==1.26.2
